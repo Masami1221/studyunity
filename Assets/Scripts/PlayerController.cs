@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rigid2D;
     Animator animator;
     float jumpForce = 680.0f;
-    float walkForce = 30.0f;
+    float walkForce = 31.0f;
     float maxWalkSpeed = 2.0f;
     float threshold = 0.2f;
        void Start()
